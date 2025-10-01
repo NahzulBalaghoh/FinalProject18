@@ -1,6 +1,6 @@
 public class Test18 {
     public static void main(String[] args) {
-        //user 1 = ayu, user 2 = lia, user 3 = nahzul
+        //user1 = ayu, user2 = lia, user3 = nahzul
         System.out.println("Hi, ini baris kode pertama yang dimodifikasi user 3");
         System.out.println("User 3 menambahkan baris baru");
         System.out.println("Hi, ini baris kode pertama yang dimodifikasi user 1");
